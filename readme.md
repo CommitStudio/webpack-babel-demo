@@ -1,6 +1,6 @@
 # Commit Studio | Webpack & Babel
 
-## Blog post: [Webpack and Babel - What are they and how they can help you improve your applications](https://commit.studio/blog/webpack-and-babel-what-are-they-and-how-they-can-help-you-improve-your-applications)
+## Blog post: [Webpack and Babel - What are they and how they can help you improve your applications](https://commit.studio/blog/webpack-and-babel)
 
 ---
 
